@@ -6,6 +6,7 @@ Since this is a simple demo, the following features have not been implemented ye
 - [ ] 3D labels for each part of the transmission
 - [ ] More modern UI design
 - [ ] Sliders to control animation and gear rotation speed
+![game_scene](Transmision-Demo.png)
 ## Reference
 1. [【XDreamer示例教程】- 变速箱拆装](https://www.bilibili.com/video/BV1LJ411j7Cg)
 2. [FSM-Test](https://github.com/USuperMe/FSM-Test)
