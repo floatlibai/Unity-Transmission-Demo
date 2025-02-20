@@ -1,11 +1,13 @@
 # Unity-Transmission-Demo
-A simple Unity 3D demo to showcase the transmission model.
-It aims to practice Unity and C# skills for designing disassembly and assembly systems.
+A simple Unity 3D demo to showcase the transmission model.  
+It aims to practice Unity and C# skills for designing disassembly and assembly systems.  
 Use the right mouse button and scroll wheel to change the camera view.
+
 Since this is a simple demo, the following features have not been implemented yet:
 - [ ] 3D labels for each part of the transmission
 - [ ] More modern UI design
 - [ ] Sliders to control animation and gear rotation speed
+
 ![game_scene](Transmision-Demo.png)
 ## Reference
 1. [【XDreamer示例教程】- 变速箱拆装](https://www.bilibili.com/video/BV1LJ411j7Cg)
