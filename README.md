@@ -9,7 +9,7 @@ Since this is a simple demo, the following features have not been implemented ye
 - [ ] Sliders to control animation and gear rotation speed
 
 ![game_scene](Transmision-Demo.png)
-## Reference
+## References
 1. [【XDreamer示例教程】- 变速箱拆装](https://www.bilibili.com/video/BV1LJ411j7Cg)
 2. [FSM-Test](https://github.com/USuperMe/FSM-Test)
 3. [Mouse Drag 3d Objects in Unity](https://gist.github.com/seferciogluecce/132e136ed71834143100f14b9b86b9fa)
